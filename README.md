@@ -1,8 +1,8 @@
 # Tracking COVID-19 using online search
 
-This repository maintains an up-to-date version of the report/paper "[Tracking COVID-19 using online search](covid-19-online-search.pdf)".
+This repository maintains an up-to-date version of the preprint "[Tracking COVID-19 using online search](covid-19-online-search.pdf)".
 
-The report is also available on [arXiv](https://arxiv.org/abs/2003.08086), but the version on arXiv will be updated less frequently.
+The preprint is also available on [arXiv](https://arxiv.org/abs/2003.08086), but that version will be updated less frequently.
 
 Please contact v.lampos@ucl.ac.uk for more information or if you want to collaborate on this project.
 
