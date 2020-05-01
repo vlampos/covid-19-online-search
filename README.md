@@ -12,7 +12,7 @@ Vasileios Lampos, Simon Moura, Elad Yom-Tov, Michael Edelstein, Maimuna Majumder
 
 
 ## Disclaimer
-The first version of this manuscript was published on March 18, 2020. The current version considers data up to and including April 20, 2020. Findings must be read with caution prior to the completion of the first wave of the COVID-19 pandemic.
+The first version of this manuscript was published on March 18, 2020. Findings must be read with caution prior to the completion of the first wave of the COVID-19 pandemic.
 
 <br />
 <br />
