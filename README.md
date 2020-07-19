@@ -12,7 +12,7 @@ Vasileios Lampos, Maimuna S. Majumder, Elad Yom-Tov, Michael Edelstein, Simon Mo
 
 
 ## Disclaimer
-The first version of this manuscript was published on March 18, 2020.
+The first version of this manuscript was published on March 18, 2020. The paper is currently under peer review.
 
 <br />
 <br />
